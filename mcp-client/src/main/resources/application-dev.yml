@@ -1,0 +1,5 @@
+server:
+  port: 9090
+
+website:
+  domain: http://localhost:5501
