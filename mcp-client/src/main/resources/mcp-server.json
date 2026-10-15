@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "filesystem": {
-      "command": "npx",
+      "command": "/home/azureuser/.nvm/versions/node/v22.22.0/bin/npx",
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
